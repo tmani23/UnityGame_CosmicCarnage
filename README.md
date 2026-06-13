@@ -140,9 +140,9 @@ Through developing Cosmic Carnage, I gained practical experience with:
 
 ### Music
 
-* Kevin MacLeod — Andreas Theme
-* Kevin MacLeod — Rocket
-* Kevin MacLeod — Space Jazz
+* "Andreas Theme" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+* "Rocket" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+* "Space Jazz" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
 
 ### Sound Effects
 
