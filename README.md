@@ -149,6 +149,3 @@ Through developing Cosmic Carnage, I gained practical experience with:
 * Shooting Sound (Unity Asset Store)
 * FREE Casual Game SFX Pack (Unity Asset Store)
 * Free UI Click Sound Pack (Unity Asset Store)
-
-
-⭐ If you enjoy the project, feel free to check out the game and trailer above.
