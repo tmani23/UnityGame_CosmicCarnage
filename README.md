@@ -2,7 +2,7 @@
 
 > A fast-paced endless runner built in Unity where every split-second decision matters.
 
-[🎮 Play the Game](https://manit1863.itch.io/cosmic-carnage) • [🎥 Watch the Trailer](https://www.youtube.com/watch?v=QfduDJBMT9s)
+[🎮 Play the Game (Itch.io Web Build)](https://manit1863.itch.io/cosmic-carnage) • [🎥 Watch the Trailer](https://www.youtube.com/watch?v=QfduDJBMT9s)
 
 ---
 
